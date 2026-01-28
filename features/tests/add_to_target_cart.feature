@@ -7,3 +7,5 @@ Feature: User can add any product to cart
         When Search for coffee
         And Click on add to cart button
         Then Confirm added to cart message from side navigation
+
+
